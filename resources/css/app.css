@@ -1,0 +1,16 @@
+body
+{
+    background-image: url(https://st2.depositphotos.com/1831081/9547/i/950/depositphotos_95476440-stock-photo-artificial-grass-soccer-background.jpg);
+    background-size: cover;
+    background-position: center
+}
+
+h1
+{
+    color: white;
+}
+
+.card
+{
+    background-blend-mode: multiply;
+}
